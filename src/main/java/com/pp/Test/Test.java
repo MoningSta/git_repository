@@ -7,6 +7,6 @@ public class Test {
         //以下为1.0该bug的代吗
         System.out.println("1.0尝试bug");
         System.out.println("12/18");
-        System.out.println("12/18提交");
+        System.out.println("12/18手敲");
     }
 }
